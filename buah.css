@@ -80,8 +80,8 @@
   --color-5-0-b: rgba(199, 181, 165, 0.14);
 
   /* Typography */
-  --font-heading: "Bear Sans UI Heading", "iAWriterQuattroV", sans-serif;
-  --font-body: "Bear Sans UI", "iAWriterQuattroV", sans-serif;
+  --font-heading: "Avenir", "Arial", sans-serif;
+  --font-body: "Avenir", "Arial", sans-serif;
   --font-code: ui-monospace, "JetBrains Mono", "Zed Plex Mono", "SFMono-Regular",
     Menlo, Consolas, monospace;
   --font-size: 18px;
